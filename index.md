@@ -4,7 +4,7 @@ This is a page for setting up a few down-to-earth goals that I will do in near f
 
 ## 61c Projects
 
-Proj 3 and proj 4 are projects that haven't completed. My opinion is having a deeper understanding of CNN and deep learning will make me doing these two much more comfortably, but still by completing these without those knowledge is necessary since it could give me a better understanding of parallel programming, which could enhance the understanding in OS. And OS has higher priority in my goals.
+Having a deeper understanding of CNN and deep learning will make me doing the two projects left much more smoothly, but still by completing these without those knowledge is necessary since OS should have higher priority than deep learning.
 
 [beargit](https://github.com/enjoycok-hw/beargit) ✓
 
@@ -18,7 +18,7 @@ Proj 3 and proj 4 are projects that haven't completed. My opinion is having a de
 
 ## OS
 
-OS projs are not started. My goal is to go through all of them. I will only skip projs if I think the knowledge it provides is more advanced than basic or necessary.
+OS projs are not started. My goal is to go through all of them at least.
 
 [hw0~hw3](https://github.com/enjoycok-hw/os-hw)
 
