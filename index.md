@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Welcome to Enjoy Curse of Knowledge
 
-You can use the [editor on GitHub](https://github.com/enjoycok/enjoycok.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Page for setting up a few down-to-earth goals that I will do in near future with priorities. Will give ticks to any projs that's done and any projs I think could be skipped (since there's too many to be done if I'm not selective)
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 61c Projects
 
-```markdown
-Syntax highlighted code block
+Proj 3 and proj 4 are projects that haven't completed. My opinion is having a deeper understanding of CNN and deep learning will make me doing these two much more comfortably, but still by completing these without those knowledge is necessary since it could give me a better understanding of parallel programming, which could enhance the understanding in OS. And OS has higher priority in my goals.
 
-# Header 1
-## Header 2
-### Header 3
+## HW
 
-- Bulleted
-- List
+[beargit](https://github.com/enjoycok-hw/beargit) &#10004
 
-1. Numbered
-2. List
+## Proj 1
 
-**Bold** and _Italic_ and `Code` text
+[mips assembler](https://github.com/enjoycok-hw/mips-assembler) &#10004
 
-[Link](url) and ![Image](src)
-```
+## Proj 2
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[processor design](https://github.com/enjoycok-hw/processor-design) &#10004
 
-### Jekyll Themes
+## Proj 3 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/enjoycok/enjoycok.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[N/A]
 
-### Support or Contact
+## Proj 4
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[N/A]
+
+# OS
+
+OS projs are not started. My goal is to go through all of them. I will only skip projs if I think the knowledge it provides is more advanced than basic or necessary.
+
+## HW 
+
+[hw0~hw3](https://github.com/enjoycok-hw/os-hw)
+
+## Proj
+
+[N/A]
+
+### Contact
+
+If anyone wants to contact me, please mail to [jobzkl@outlook.com]
+(mailto:jobzkl@outlook.com)
