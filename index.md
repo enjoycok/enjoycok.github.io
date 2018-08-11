@@ -30,6 +30,6 @@ If anyone wants to contact me, please mail to [jobzkl@outlook.com](mailto:jobzkl
 
 
 | Problem | Times | Solve time |
-| --- | --- |
+| --- | --- | --- |
 | Test Problem 1 which is large | 3 | 7 mins |
 | eerjei | ere | ere |
