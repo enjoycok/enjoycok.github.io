@@ -27,3 +27,9 @@ OS projs are not started. My goal is to go through all of them at least.
 ## Contact
 
 If anyone wants to contact me, please mail to [jobzkl@outlook.com](mailto:jobzkl@outlook.com)
+
+
+| Problem | Times | Solve time |
+| --- | --- |
+| Test Problem 1 which is large | 3 | 7 mins |
+| eerjei | ere | ere |
